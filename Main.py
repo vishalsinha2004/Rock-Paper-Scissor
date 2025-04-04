@@ -1,4 +1,12 @@
+"""
+
+
+This is a simple rock paper scissor game.
+
+
+"""
 import random
+
 
 computer = random.choice([-1, 0, 1])
 youstr = input("Enter your choice:- ")
